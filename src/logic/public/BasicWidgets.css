@@ -11,14 +11,18 @@ h1 {
     text-align: center;
 }
 
-.gwt-ListBox{
-    color:green;
+.gwt-Label{
+    font-size: 150%;
+    font-weight: bold;
+    color:red;
+    padding:5px;
+    margin:5px;
 }
 
-.gwt-Green-Border {
-
+.gwt-Green-Border{
+    border:1px solid green;
 }
 
-.gwt-Blue-Border {
-
+.gwt-Blue-Border{
+    border:1px solid blue;
 }
